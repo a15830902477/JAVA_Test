@@ -17,5 +17,8 @@ public class hello {
     }
     public static void m2() {
         System.out.println("第2次玩Git");
+        System.out.println("第2次玩Git");
+        System.out.println("第2次玩Git");
+        System.out.println("第2次玩Git");
     }
 }
