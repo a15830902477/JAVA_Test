@@ -2,14 +2,14 @@ package com.ithei;
 
 /**
  * @PackageName: com.ithei
- * @ClassName: hello
+ * @ClassName: hello2
  * @Description: TODO
  * @Author: yangxu
- * @DateTime: 2020/8/23 21:12
+ * @DateTime: 2020/8/25 18:10
  * @Version 1.0
  */
-public class hello {
+public class hello2 {
     public static void main(String[] args) {
-        System.out.println("第一次玩Git");
+        System.out.println(1);
     }
 }
