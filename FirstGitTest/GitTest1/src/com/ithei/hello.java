@@ -10,7 +10,6 @@ package com.ithei;
  */
 public class hello {
     public static void main(String[] args) {
-        System.out.println("第0次玩Git");
         System.out.println("第一次玩Git");
         System.out.println("第2次玩Git");
         System.out.println("第一次玩Git");
