@@ -21,4 +21,7 @@ public class hello {
         System.out.println("第2次玩Git");
         System.out.println("第2次玩Git");
     }
+    public void m(){
+
+    }
 }
